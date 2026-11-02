@@ -8,6 +8,7 @@ gem 'webrick'
 gem 'logger'
 gem 'base64'
 gem 'ostruct'
+gem 'wdm', '>= 0.1.0'
 
 # needed for Rake tasks
 gem 'rake'
